@@ -1,0 +1,17 @@
+pkgbase = clawrtc
+	pkgdesc = Mine RTC tokens with your AI agent - RustChain Proof of Antiquity consensus
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://bottube.ai
+	arch = any
+	license = MIT
+	makedepends = python-build
+	makedepends = python-installer
+	makedepends = python-wheel
+	makedepends = python-setuptools
+	depends = python
+	depends = python-requests
+	source = https://files.pythonhosted.org/packages/source/c/clawrtc/clawrtc-1.0.0.tar.gz
+	sha256sums = d75fc515f8bc12101d4116b7981d25f973303d6b76bb6c04de2a0c32ae94661d
+
+pkgname = clawrtc
